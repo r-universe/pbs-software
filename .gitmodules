@@ -3,3 +3,27 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "PBSadmb"]
+	path = PBSadmb
+	url = https://github.com/pbs-software/pbs-admb
+	shallow = true
+	subdir = PBSadmb
+	registered = true
+[submodule "PBSddesolve"]
+	path = PBSddesolve
+	url = https://github.com/pbs-software/pbs-ddesolve
+	shallow = true
+	subdir = PBSddesolve
+	registered = true
+[submodule "PBSmapping"]
+	path = PBSmapping
+	url = https://github.com/pbs-software/pbs-mapping
+	shallow = true
+	subdir = PBSmapping
+	registered = true
+[submodule "PBSmodelling"]
+	path = PBSmodelling
+	url = https://github.com/pbs-software/pbs-modelling
+	shallow = true
+	subdir = PBSmodelling
+	registered = true
